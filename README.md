@@ -1,5 +1,5 @@
 # Novel_2
-this is a novel, it turned out to be quite confusing and incomprehensible, I wrote: 03/02/26
+this is a novel, it turned out to be quite confusing and incomprehensible, there is a mistake. I wrote: 03/02/26
 ```Python
 import time
 import random
